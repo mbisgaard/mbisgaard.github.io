@@ -25,13 +25,18 @@ h1 {
 }
 h2 {
     font-size: 2em;
-    padding-bottom: 2em;
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
 }
 
 p {
     font-size: 1.2em;
     line-height: 0em;
+    color: #333;
+}
+
+pentry {
+    font-size: 1.2em;
+    padding-top: 2em;
     color: #333;
 }
 
