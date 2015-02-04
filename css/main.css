@@ -2,11 +2,7 @@ body {
     margin: 60px auto;
     width: 70%;
 }
-selector {
-      word-wrap: break-word;      /* IE 5.5-7 */
-      white-space: -moz-pre-wrap; /* Firefox 1.0-2.0 */
-      white-space: pre-wrap;      /* current browsers */
-}
+
 nav ul, footer ul {
     font-family:'Helvetica', 'Arial', 'Sans-Serif';
     padding: 0px;
