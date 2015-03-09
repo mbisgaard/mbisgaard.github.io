@@ -11,7 +11,7 @@ nav ul, footer ul {
 }
 nav ul li, footer ul li {
     display: inline;
-    font-size: 2em;
+    font-size: 1.5em;
     margin-right: 20px;
 }
 a {
@@ -37,19 +37,19 @@ p {
 }
 
 pentry {
-    font-size: 1.5em;
+    font-size: 1.3em;
     padding-top: 2em;
     color: #333;
 }
 
 p1 {
-    font-size: 1.2em;
+    font-size: 1.3em;
     line-height: 0em;
     color: #333;
 }
 
 p2 {
-    font-size: 2em;
+    font-size: 1.3em;
     line-height: 1.5em;
     color: #333;
 }
