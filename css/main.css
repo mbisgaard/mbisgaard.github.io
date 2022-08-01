@@ -68,10 +68,4 @@ ul.posts li {
     list-style: none;
 }
 
-img {
-  display: block;
-  max-width:230px;
-  max-height:95px;
-  width: auto;
-  height: auto;
-}
+
